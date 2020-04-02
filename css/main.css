@@ -3,4 +3,13 @@
    }
    .nav-spacing {
      margin-left: 10px;
+     color: blue;
+     text-decoration: none;
    }
+   .image-link{
+    text-decoration: none;
+   }
+.center-header{
+    text-align: center;
+    margin: 0 0 80px;
+}
